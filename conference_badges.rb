@@ -3,4 +3,5 @@ def batch_badge_creator(arr)
   arr.each {|el|
     result <<  "Hello, my name is #{el}."
     }
+    result
 end
