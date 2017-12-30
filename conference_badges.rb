@@ -1,3 +1,7 @@
+def badge_maker(str)
+   "Hello, my name is #{str}.""
+end
+
 def batch_badge_creator(arr)
   result = []
   arr.each {|el|
