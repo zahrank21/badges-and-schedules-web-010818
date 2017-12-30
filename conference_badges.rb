@@ -25,6 +25,5 @@ def printer(arr)
   rooms_array = assign_rooms(arr)
   rooms_array.each{|el|
   puts el}
-  
-  
+
 end
